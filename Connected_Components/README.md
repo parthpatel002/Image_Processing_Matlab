@@ -3,9 +3,11 @@
 The script `connected_components.m` contains the code to separate all connected components in an image, as shown below:
 
 Original Image:
+
 ![Original](cc_o.png)
 
 Resuling Connected Components:
+
 ![cc_1](cc_1.png) ![cc_2](cc_2.png)
 ![cc_3](cc_3.png) ![cc_4](cc_4.png)
 ![cc_5](cc_5.png) ![cc_6](cc_6.png)
